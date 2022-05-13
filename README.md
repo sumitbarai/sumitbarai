@@ -1,4 +1,5 @@
-echo "# sumitbarai" >> README.md
+steps to create new repo
+================================
 git init
 git add README.md
 git commit -m "first commit"
@@ -12,3 +13,5 @@ push an existing repository from the command line
 git remote add origin https://github.com/sumitbarai/sumitbarai.git
 git branch -M main
 git push -u origin main
+
+
